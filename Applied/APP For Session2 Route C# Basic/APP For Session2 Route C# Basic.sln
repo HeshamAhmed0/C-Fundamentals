@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APP For Session2 Route C# Basic", "APP For Session2 Route C# Basic.csproj", "{654D384B-EEB4-4212-914D-856DAF9C1438}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{654D384B-EEB4-4212-914D-856DAF9C1438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{654D384B-EEB4-4212-914D-856DAF9C1438}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{654D384B-EEB4-4212-914D-856DAF9C1438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{654D384B-EEB4-4212-914D-856DAF9C1438}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
