@@ -70,26 +70,26 @@ namespace Session_3
             #endregion
 
             #region FormatOfDay
-            Console.Write("Enter Date : ");
-            string? Date =Console.ReadLine();
-            if (Date is null)
-            {
-                Console.Write("Enter Date : ");
-                 Date = Console.ReadLine();
+            //Console.Write("Enter Date : ");
+            //string? Date =Console.ReadLine();
+            //if (Date is null)
+            //{
+            //    Console.Write("Enter Date : ");
+            //     Date = Console.ReadLine();
 
-            }
-            else
-            {
-                string[] Parts =Date.Split(' ');
-                string result01 =string.Join(",", Parts);
-                string result02 =string.Join("/", Parts);
-                string result03 =string.Join("-", Parts);
-                Console.WriteLine(result01);
-                Console.WriteLine(result02);
-                Console.WriteLine(result03);
+            //}
+            //else
+            //{
+            //    string[] Parts =Date.Split(' ');
+            //    string result01 =string.Join(",", Parts);
+            //    string result02 =string.Join("/", Parts);
+            //    string result03 =string.Join("-", Parts);
+            //    Console.WriteLine(result01);
+            //    Console.WriteLine(result02);
+            //    Console.WriteLine(result03);
                  
 
-            }
+            //}
 
             #endregion
         }
